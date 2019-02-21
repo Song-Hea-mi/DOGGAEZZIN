@@ -1,4 +1,4 @@
-# Welcome to DOGGAZZIN CORPORATION!
+# Welcome to DOGGAEZZIN CORPORATION!
 ![Start Image](./img/start.jpg)<br/>
 What if your work colleagues who were insulting like "dogs" everyday 
 become a real dog? <br/>
