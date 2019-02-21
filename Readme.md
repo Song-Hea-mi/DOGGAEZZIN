@@ -14,7 +14,6 @@ If you want to see how it is implemented, please contact us by personal
 mail. Please refer to the bottom of the email address <br/>
 I want to share all the files, but I will upload only the executable file because it is not my personal project. <br/>
 I hope you understand this, and please go to the link below to download. <br/>
-https://drive.google.com/drive/folders/1s2v4pu5d94-CJJsJKfYByo5D30Q_QBTc?usp=sharing <br/>
 이것은 <나 빼고 다 '개'같은 사람들과의 회사 생활>에 대한 세계관을 기반으로 한 캐릭터 프로모션 전시 콘텐츠 입니다.<br/>
 어떻게 만들었는지 궁금하다면 개인 메일로 문의주세요. 메일주소는 맨 하단을 참고하세요. <br/>
 모든 파일을 공유하고 싶지만 개인 프로젝트가 아니므로 실행파일만 올리겠습니다. <br/>
