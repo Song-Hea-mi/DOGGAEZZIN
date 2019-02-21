@@ -1,5 +1,5 @@
 # Welcome to DOGGAZZIN CORPORATION!
-![Main Image](./img/main.jpg)<br/>
+![Start Image](./img/start.jpg)<br/>
 What if your work colleagues who were insulting like "dogs" everyday 
 become a real dog? <br/>
 Here are dogs of DOGGAZZIN CORPORATION that will make you really 
