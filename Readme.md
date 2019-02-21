@@ -59,5 +59,3 @@ ableft7545@naver.com / 이연우(Lee-Yeon-Woo) annafox95@naver.com
 <br/><br/>
 [개발자/SW Enginner] <br/>
 송혜미(Song-Hye-mi) workinghamee@gmail.com <- It's Me! <br/><br/>
-# DOGGAEZZIN
-
