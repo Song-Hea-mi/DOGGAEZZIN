@@ -18,7 +18,7 @@ I hope you understand this, and please go to the link below to download. <br/>
 어떻게 만들었는지 궁금하다면 개인 메일로 문의주세요. 메일주소는 맨 하단을 참고하세요. <br/>
 모든 파일을 공유하고 싶지만 개인 프로젝트가 아니므로 실행파일만 올리겠습니다. <br/>
 이점 양해 부탁드리며, 다운로드는 아래 링크로 들어가세요. <br/>
-https://drive.google.com/drive/folders/1s2v4pu5d94-CJJsJKfYByo5D30Q_QBTc?usp=sharing <br/><br/>
+[Download link] https://drive.google.com/drive/folders/1s2v4pu5d94-CJJsJKfYByo5D30Q_QBTc?usp=sharing <br/><br/>
 
 If your device is based on the Windows operating system, just download 
 it! But before you install it, please check 3 things. <br/>
